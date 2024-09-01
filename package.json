@@ -1,0 +1,21 @@
+{
+  "name": "solid-example-ts",
+  "version": "1.0.0",
+  "description": "Projeto exemplo para demonstrar os princípios SOLID em TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node ./main.ts"
+  },
+  "keywords": [
+    "typescript",
+    "solid",
+    "principles",
+    "example"
+  ],
+  "author": "Gustavo Cardoso",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "ts-node": "^10.9.2"
+  }
+}
