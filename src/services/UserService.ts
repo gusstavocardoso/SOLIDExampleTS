@@ -1,3 +1,5 @@
+// 5. Dependency Inversion Principle (DIP)
+
 import { User } from '../entities/User';
 import { Validator } from '../utils/Validator';
 import { NotificationService } from './NotificationService';

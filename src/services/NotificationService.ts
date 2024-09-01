@@ -1,3 +1,5 @@
+// 4. Interface Segregation Principle (ISP)
+
 import { IEmailSender } from '../interfaces/IEmailSender';
 
 export class NotificationService {
